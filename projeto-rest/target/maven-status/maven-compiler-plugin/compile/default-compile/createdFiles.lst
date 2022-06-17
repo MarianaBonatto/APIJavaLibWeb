@@ -1,0 +1,10 @@
+br\com\kiman\curso\rest\resource\LibweberResource$1.class
+br\com\kiman\curso\rest\resource\PalavraResource.class
+br\com\kiman\curso\rest\resource\LibweberResource.class
+br\com\kiman\curso\rest\resource\VideoResource$1.class
+br\com\kiman\curso\rest\resource\VideoResource.class
+br\com\kiman\curso\rest\resource\PalavraResource$1.class
+br\com\kiman\curso\rest\config\RestExceptionHandler.class
+br\com\kiman\curso\rest\filter\CORSFilter.class
+br\com\kiman\curso\rest\config\RestConverterProvider.class
+br\com\kiman\curso\rest\config\ApplicationConfig.class

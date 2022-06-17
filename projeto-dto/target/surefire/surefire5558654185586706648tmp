@@ -1,0 +1,32 @@
+#surefire
+#Thu Jun 16 18:34:03 BRT 2022
+testClassesDirectory=C\:\\Users\\Knunes\\Documents\\pds - svn\\Desenvolvimento\\java-libweb\\projeto\\projeto-dto\\target\\test-classes
+classPathUrl.4=C\:\\Users\\Knunes\\.m2\\repository\\com\\sun\\mail\\javax.mail\\1.5.0\\javax.mail-1.5.0.jar
+classPathUrl.3=C\:\\Users\\Knunes\\.m2\\repository\\javax\\javaee-api\\7.0\\javaee-api-7.0.jar
+classPathUrl.2=C\:\\Users\\Knunes\\Documents\\pds - svn\\Desenvolvimento\\java-libweb\\projeto\\projeto-dominio\\target\\projeto-dominio-0.0.1-SNAPSHOT.jar
+useManifestOnlyJar=true
+classPathUrl.1=C\:\\Users\\Knunes\\Documents\\pds - svn\\Desenvolvimento\\java-libweb\\projeto\\projeto-dto\\target\\classes
+reportsDirectory=C\:\\Users\\Knunes\\Documents\\pds - svn\\Desenvolvimento\\java-libweb\\projeto\\projeto-dto\\target\\surefire-reports
+classPathUrl.0=C\:\\Users\\Knunes\\Documents\\pds - svn\\Desenvolvimento\\java-libweb\\projeto\\projeto-dto\\target\\test-classes
+dirscanner.0=directoryScannerOptions
+providerConfiguration=org.apache.maven.surefire.junit.JUnit3Provider
+testSuiteDefinitionTestSourceDirectory=C\:\\Users\\Knunes\\Documents\\pds - svn\\Desenvolvimento\\java-libweb\\projeto\\projeto-dto\\src\\test\\java
+surefireClassPathUrl.1=C\:\\Users\\Knunes\\.m2\\repository\\org\\apache\\maven\\surefire\\surefire-api\\2.7.1\\surefire-api-2.7.1.jar
+surefireClassPathUrl.0=C\:\\Users\\Knunes\\.m2\\repository\\org\\apache\\maven\\surefire\\surefire-junit3\\2.7.1\\surefire-junit3-2.7.1.jar
+report.2=org.apache.maven.surefire.report.XMLReporter
+useSystemClassLoader=true
+report.1=org.apache.maven.surefire.report.BriefFileReporter
+report.0=org.apache.maven.surefire.report.ForkingConsoleReporter
+excludes0=**/*$*
+isTrimStackTrace=true
+dirscanner.0.params=C\:\\Users\\Knunes\\Documents\\pds - svn\\Desenvolvimento\\java-libweb\\projeto\\projeto-dto\\target\\test-classes|[**/Test*.java, **/*Test.java, **/*TestCase.java]|[**/*$*]
+includes2=**/*TestCase.java
+enableAssertions=true
+includes1=**/*Test.java
+failIfNoTests=false
+includes0=**/Test*.java
+dirscanner.0.types=java.io.File|java.util.ArrayList|java.util.ArrayList
+classPathUrl.7=C\:\\Users\\Knunes\\.m2\\repository\\com\\google\\protobuf\\protobuf-java\\3.11.4\\protobuf-java-3.11.4.jar
+childDelegation=false
+classPathUrl.6=C\:\\Users\\Knunes\\.m2\\repository\\mysql\\mysql-connector-java\\8.0.26\\mysql-connector-java-8.0.26.jar
+classPathUrl.5=C\:\\Users\\Knunes\\.m2\\repository\\javax\\activation\\activation\\1.1\\activation-1.1.jar

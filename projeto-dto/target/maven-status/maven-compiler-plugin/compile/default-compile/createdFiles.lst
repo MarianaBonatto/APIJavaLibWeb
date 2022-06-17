@@ -1,0 +1,11 @@
+br\com\kiman\curso\dto\factory\RegiaoFactory.class
+br\com\kiman\curso\dto\ErroDTO.class
+br\com\kiman\curso\dto\converter\LocalDateAdapter.class
+br\com\kiman\curso\dto\RegiaoDTO.class
+br\com\kiman\curso\dto\factory\ErroFactory.class
+br\com\kiman\curso\dto\factory\VideoFactory.class
+br\com\kiman\curso\dto\PalavraDTO.class
+br\com\kiman\curso\dto\factory\LibWeberFactory.class
+br\com\kiman\curso\dto\LibWeberDTO.class
+br\com\kiman\curso\dto\factory\PalavraFactory.class
+br\com\kiman\curso\dto\VideoDTO.class
