@@ -1,0 +1,1 @@
+web: java -Dserver.port=$PORT -Dspring.profiles.active=prod projeto-rest/target/projeto-rest-0.0.1-SNAPSHOT.war
